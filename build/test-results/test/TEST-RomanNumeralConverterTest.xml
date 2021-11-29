@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="RomanNumeralConverterTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2021-11-25T06:51:50" hostname="Jacks-MacBook-Pro-2.local" time="0.036">
+<testsuite name="RomanNumeralConverterTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2021-11-29T04:59:19" hostname="samsung-sm-g955u.dhcp.bsu.edu" time="0.034">
   <properties/>
-  <testcase name="convertTripleRNTest()" classname="RomanNumeralConverterTest" time="0.022"/>
-  <testcase name="convertNineHundredNumeral()" classname="RomanNumeralConverterTest" time="0.002"/>
-  <testcase name="convertFourNumeral()" classname="RomanNumeralConverterTest" time="0.001"/>
+  <testcase name="convertTripleRNTest()" classname="RomanNumeralConverterTest" time="0.02"/>
+  <testcase name="convertNineHundredNumeral()" classname="RomanNumeralConverterTest" time="0.001"/>
+  <testcase name="convertFourNumeral()" classname="RomanNumeralConverterTest" time="0.002"/>
   <testcase name="convertDoubleRNTest()" classname="RomanNumeralConverterTest" time="0.001"/>
-  <testcase name="convertSingleRNTest()" classname="RomanNumeralConverterTest" time="0.001"/>
-  <testcase name="convertNinetyNumeral()" classname="RomanNumeralConverterTest" time="0.0"/>
+  <testcase name="convertNinetyNumeral()" classname="RomanNumeralConverterTest" time="0.001"/>
   <testcase name="convertFortyNumeral()" classname="RomanNumeralConverterTest" time="0.001"/>
   <testcase name="convertFourHundredNumeral()" classname="RomanNumeralConverterTest" time="0.001"/>
   <testcase name="convertNineNumeral()" classname="RomanNumeralConverterTest" time="0.001"/>

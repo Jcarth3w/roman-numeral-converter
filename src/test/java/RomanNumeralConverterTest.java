@@ -4,16 +4,6 @@ import org.junit.jupiter.api.Test;
 public class RomanNumeralConverterTest
 {
     @Test
-    public void convertSingleRNTest()
-    {
-        RomanNumeralConverter converter = new RomanNumeralConverter();
-        String numeral = "x";
-
-        int convertedNumeral = converter.convertRN(numeral);
-        Assertions.assertEquals(10, convertedNumeral);
-    }
-
-    @Test
     public void convertDoubleRNTest()
     {
         RomanNumeralConverter converter = new RomanNumeralConverter();
